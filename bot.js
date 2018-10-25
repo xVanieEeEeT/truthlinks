@@ -84,7 +84,7 @@ client.on('ready', () => {
   }).then(invite =>
    msg.author.sendMessage(`
          <@${msg.author.id}> 
-         **- رابــط لسيـرفر , Truth.. :leaves: **
+         **- رابــط لسيـرفر , Winter.. :leaves: **
          **- [ ${invite.url} ]**
          **- عـدد الاستخدامات , 5 **
          `)
